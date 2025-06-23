@@ -17,20 +17,9 @@ It allows us to manage books, borrow them, and view borrowing summaries.
  MongoDB (Mongoose)
  dotenv
  ## 📁 Project Structure
+![image](https://github.com/user-attachments/assets/8835a490-2259-4b52-97b8-db7ddd313de5)
 
-library-management/
-├── src/
-│ >controllers/
-│ > interfaces/
-│ > models/
-│ >routes/
-│ >utils/
-│ >app.ts
-│ >server.ts
-├─> .env
-├──> package.json
-├──> tsconfig.json
-
+ 
  ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the project
