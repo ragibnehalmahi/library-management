@@ -20,16 +20,16 @@ It allows us to manage books, borrow them, and view borrowing summaries.
 
 library-management/
 ├── src/
-│ ├── controllers/
-│ ├── interfaces/
-│ ├── models/
-│ ├── routes/
-│ ├── utils/
-│ ├── app.ts
-│ └── server.ts
-├── .env
-├── package.json
-├── tsconfig.json
+│ >controllers/
+│ > interfaces/
+│ > models/
+│ >routes/
+│ >utils/
+│ >app.ts
+│ >server.ts
+├─> .env
+├──> package.json
+├──> tsconfig.json
 
  ## ⚙️ Setup Instructions
 
